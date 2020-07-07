@@ -14,4 +14,5 @@ A Test Report is created each time the tests run (Location: \target\cucumber-rep
 Please watch the video named WATCH_ME.mp4 for a visual description and demo of running the Vending App and various methods of running the TestStuite
 
 Thanks
+
 Reginald Williams
